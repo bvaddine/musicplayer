@@ -4,11 +4,11 @@ This project is a simple JavaScript-based music player that allows users to play
 ## Features
 ### Player Controls:
 
-Play Button (play): Initiates or resumes playback.
-Pause Button (pause): Pauses the currently playing song.
-Next Button (next): Skips to the next song in the playlist.
-Previous Button (previous): Returns to the previous song in the playlist.
-Shuffle Button (shuffle): Randomizes the order of songs in the playlist.
+Play Button (play): Initiates or resumes playback.  
+Pause Button (pause): Pauses the currently playing song.  
+Next Button (next): Skips to the next song in the playlist.  
+Previous Button (previous): Returns to the previous song in the playlist.  
+Shuffle Button (shuffle): Randomizes the order of songs in the playlist.  
 
 ## Playlist Management:
 The playlist is visibly displayed, presenting song titles, artists, and durations.
